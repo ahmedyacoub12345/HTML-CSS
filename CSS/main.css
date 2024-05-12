@@ -1,0 +1,6 @@
+h1,p{
+    border: solid 3px red;
+    border-width: 3px;
+    color: blue ;
+    text-align: right;
+}
